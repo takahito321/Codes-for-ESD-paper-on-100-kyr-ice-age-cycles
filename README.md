@@ -1,6 +1,6 @@
-# Codes　for paper Mitsui et al. Earth System Dynamics (2025): 
-Codes for the paper: 100 kyr ice age cycles as a timescale-matching problem by
-Takahito Mitsui, Peter Ditlevsen, Niklas Boers, and Michel Crucifix
+# Codes for paper Mitsui et al. Earth System Dynamics (2025): 
+Codes for the paper: 100 kyr ice age cycles as a timescale-matching problem, by
+Takahito Mitsui, Peter Ditlevsen, Niklas Boers, and Michel Crucifix, accepted in Earth System Dynamics
 - Fig. 1: Fig1.R
 - Fig. 2: Fig2.R
 - Fig. 3: Fig3.svg
